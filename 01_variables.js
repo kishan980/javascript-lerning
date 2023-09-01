@@ -1,6 +1,7 @@
 const accountId =12345678;
 let accountEmail ="kishany980@gmail.com"
 var accountPassword ="1234";
+let accountCityName;
 
 accountCity ="Jaipur";
 
@@ -10,4 +11,4 @@ accountEmail="kishan"
 coountPassword=5263897
 
 console.log(accountId);
-console.table([accountEmail,accountId,accountCity,accountPassword])
+console.table([accountEmail,accountId,accountCity,accountPassword,accountCityName])
